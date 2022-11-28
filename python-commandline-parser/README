@@ -1,0 +1,4 @@
+Single file command line parser without any external deps.
+
+For when you don't want to create a virtualenv and manage requirements.txt for your small CLI scripots.
+
